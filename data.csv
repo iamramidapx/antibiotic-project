@@ -1,0 +1,9 @@
+strain,antibiotic,group,dilution,colonies,cfu_per_ml
+PY012,norfloxacin,control,0.001,176,1760000
+PY012,norfloxacin,treated,0.001,90,900000
+MA012,norfloxacin,control,0.001,89,890000
+MA012,norfloxacin,treated,0.001,31,310000
+PY012,ciprofloxacin,control,0.001,158,1580000
+PY012,ciprofloxacin,treated,0.001,49,490000
+PY001,ciprofloxacin,control,0.001,48,480000
+PY001,ciprofloxacin,treated,0.001,68,680000
